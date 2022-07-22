@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CanadaMap
+comment0.text=\r\n\ World\ for\ the\ premade\ 'Canada'\ map\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai,\ Jonathan\ Hai\ \r\n\ @version\ June\ 2,\ 2018\r\n
+comment1.params=
+comment1.target=CanadaMap()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CanadaMap.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addStartingPieces()
+comment2.text=\r\n\ Method\ that\ overwrites\ the\ addStartingPieces\ in\ the\ GameWorld\ superclass.\r\n\ Initializes\ the\ units\ and\ buildings\ that\ spawn\ in\ the\ world.\r\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BotHud
+comment0.text=\r\n\ Actor\ for\ the\ hud\ at\ the\ bottom\ of\ the\ screen.\r\n\ Shows\ the\ possible\ units\ that\ can\ be\ built.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ May\ 17,\ 2018\r\n
+comment1.params=
+comment1.target=BotHud()
+comment1.text=\r\n\ Constructor\ for\ the\ bothud.\r\n
+comment2.params=
+comment2.target=void\ openBuild()
+comment3.params=
+comment3.target=void\ closeBuild()
+comment4.params=unitType
+comment4.target=int\ getCost(java.lang.String)
+comment5.params=
+comment5.target=void\ openUnitStats()
+comment6.params=
+comment6.target=void\ closeUnitStats()
+numComments=7

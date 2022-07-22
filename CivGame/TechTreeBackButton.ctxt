@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TechTreeBackButton
+comment0.text=\r\n\ The\ button\ that\ takes\ the\ player\ back\ to\ the\ game\ from\ the\ tech\ tree.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 30,\ 2018\r\n
+comment1.params=
+comment1.target=TechTreeBackButton()
+comment1.text=\r\n\ Constructors\ of\ objects\ of\ class\ BackButton,\ initializes\ the\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ BackButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ closeTechTree()
+comment3.text=\r\n\ Method\ that\ closes\ the\ tech\ tree\ and\ all\ related\ conponents.\r\n
+numComments=4

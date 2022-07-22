@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=UnitHealth
+comment0.text=\r\n\ The\ object\ assigned\ to\ each\ unit\ that\ displays\ the\ amount\ of\ health\ the\ unit\ has.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=u
+comment1.target=UnitHealth(Unit)
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ class\ UnitHealth,\ initializes\ the\ unit\ that\ this\ would\ reference.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ UnitHealth\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ updateLocation()
+comment3.text=\r\n\ A\ method\ that\ constantly\ updates\ the\ location\ of\ the\ health\ to\ the\ lower\ right\ \r\n\ hand\ corner\ of\ the\ unit\ its\ following.\r\n
+comment4.params=
+comment4.target=void\ updateHealth()
+comment4.text=\r\n\ A\ method\ that\ constantly\ updates\ the\ health\ based\ on\ the\ player.\ \r\n
+comment5.params=
+comment5.target=void\ updateAll()
+comment5.text=\r\n\ A\ method\ that\ updates\ everything.\ We\ do\ not\ call\ it\ every\ act\ to\ save\ memory.\r\n
+numComments=6

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TurnIndicator
+comment0.text=\r\n\ The\ object\ at\ the\ top\ of\ the\ screen\ that\ changes\ based\ on\ whose\ turn\ it\ is.\r\n\ \r\n\ @author\ Chengze\ Cai,\ Michael\ Zou\r\n\ @version\ May\ 9,\ 2018\r\n
+comment1.params=
+comment1.target=TurnIndicator()
+comment1.text=\r\n\ Constructor\ of\ Objects\ of\ TurnIndicator,\ initializes\ it\ to\ the\ first\ player.\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment2.text=\r\n\ Method\ that\ updates\ the\ image.\ \r\n
+comment3.params=i
+comment3.target=void\ setTurnIcon(greenfoot.GreenfootImage)
+comment3.text=\r\n\ Mutator\ method\ for\ the\ 'turnIcon'\ variable.\r\n\ \r\n\ @param\ \ i\ \ \ \ the\ new\ value\ of\ turnIcon\r\n
+numComments=4

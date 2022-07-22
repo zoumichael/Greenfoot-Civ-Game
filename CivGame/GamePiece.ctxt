@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=GamePiece
+comment0.text=\r\n\ The\ superclass\ of\ all\ gamepieces,\ contains\ accessor\ and\ mutators\ for\ coorX\ and\ coorY\ as\ well\ as\ teams.\r\n\r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=x\ y\ t
+comment1.target=GamePiece(int,\ int,\ int)
+comment1.text=\r\n\ The\ construtor\ for\ objects\ of\ class\ GamePiece,\ initalizes\ the\ coordinates\ as\ well\ as\ team.\r\n
+comment2.params=x
+comment2.target=void\ setPixelX(int)
+comment2.text=\r\n\ Mutator\ method\ for\ the\ 'coorX'\ variable.\r\n\ \r\n\ @param\ \ x\ \ \ \ the\ new\ value\ of\ coorX\r\n
+comment3.params=
+comment3.target=int\ getPixelX()
+comment3.text=\r\n\ Accessor\ method\ for\ the\ 'coorX'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ coorX\ variable\r\n
+comment4.params=y
+comment4.target=void\ setPixelY(int)
+comment4.text=\r\n\ Mutator\ method\ for\ the\ 'coorY'\ variable.\r\n\ \r\n\ @param\ \ y\ \ \ \ the\ new\ value\ of\ coorY\r\n
+comment5.params=
+comment5.target=int\ getPixelY()
+comment5.text=\r\n\ Accessor\ method\ for\ the\ 'coorY'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ coorY\ variable\r\n
+comment6.params=t
+comment6.target=void\ setTeam(int)
+comment6.text=\r\n\ Mutator\ method\ for\ the\ 'team'\ variable.\r\n\ \r\n\ @param\ \ t\ \ \ \ the\ new\ value\ of\ team\r\n
+comment7.params=
+comment7.target=int\ getTeam()
+comment7.text=\r\n\ Accessor\ method\ for\ the\ 'team'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ team\ variable\r\n
+numComments=8

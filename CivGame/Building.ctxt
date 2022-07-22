@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Building
+comment0.text=\r\n\ Superclass\ of\ all\ buildings.\r\n\ Adds\ funds\ to\ the\ team\ the\ controls\ it.\r\n\ Changes\ images\ of\ the\ buildings\ based\ on\ team.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=x\ y\ t\ i
+comment1.target=Building(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructors\ of\ objects\ of\ class\ Factory\r\n
+comment2.params=
+comment2.target=void\ updateImage()
+comment3.params=t
+comment3.target=void\ capture(int)
+comment4.params=i
+comment4.target=void\ setIncome(int)
+comment4.text=\r\n\ Mutator\ method\ for\ the\ 'income'\ variable.\r\n\ \r\n\ @param\ \ i\ \ \ \ the\ new\ value\ of\ income\r\n
+comment5.params=
+comment5.target=int\ getIncome()
+comment5.text=\r\n\ Accessor\ method\ for\ the\ 'income'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ income\ variable\r\n
+numComments=6

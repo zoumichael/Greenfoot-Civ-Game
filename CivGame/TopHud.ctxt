@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TopHud
+comment0.text=\r\n\ The\ Actor\ that\ displays\ the\ TopHud\ at\ the\ top\ of\ the\ screen.\r\n\ \r\n\ @author\ Chengze\ Cai\ \r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=
+comment1.target=TopHud()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TopHud,\ initializes\ the\ image\ to\ "topHud.png".\r\n
+numComments=2

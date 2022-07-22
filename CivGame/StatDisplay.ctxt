@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=StatDisplay
+comment0.text=\r\n\ Display's\ the\ various\ stats\ of\ the\ unit\ at\ the\ bottom.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 16,\ 2018\r\n
+comment1.params=u
+comment1.target=StatDisplay(Unit)
+comment1.text=\r\n\ Constructor\ for\ Objects\ of\ class\ FundDisplay.\ Since\ the\ game\ just\ started,\ the\ funds\ is\ 0.\r\n
+numComments=2

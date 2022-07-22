@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BuildButton
+comment0.text=\r\n\ The\ button\ that\ appears\ on\ the\ bottom\ HUD\ to\ build\ units.\ \r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ June\ 12,\ 2018\r\n
+comment1.params=c\ unit
+comment1.target=BuildButton(boolean,\ java.lang.String)
+comment1.text=\r\n\ Constructors\ of\ objects\ of\ class\ BuildButton,\ initialize\ the\ canBuild\ and\ the\ unitType.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ BuildButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

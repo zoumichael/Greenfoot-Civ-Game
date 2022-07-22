@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Road
+comment0.text=\r\n\ A\ object\ that\ represents\ a\ tile\ is\ a\ road\ and\ thus\ has\ a\ movement\ cost\ of\ 1.\r\n\ \r\n\ @author\ Jonathan\ Hai,\ Michael\ Zou\r\n\ @version\ June\ 3,\ 2018\r\n
+comment1.params=x\ y
+comment1.target=Road(int,\ int)
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ class\ Roads,\ initializes\ the\ two\ coordinates.\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ NextTurnButton\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ updateRoadImage()
+comment4.params=
+comment4.target=void\ updateArray()
+numComments=5

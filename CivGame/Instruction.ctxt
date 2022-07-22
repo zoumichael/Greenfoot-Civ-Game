@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Instruction
+comment0.text=\r\n\ The\ world\ that\ displays\ the\ instructions\ for\ the\ player.\ \r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ June\ 11,\ 2018\r\n
+comment1.params=
+comment1.target=Instruction()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Instruction.\r\n
+comment2.params=
+comment2.target=void\ addButtons()
+comment2.text=\r\n\ Method\ that\ adds\ buttons\ to\ the\ world.\r\n
+comment3.params=
+comment3.target=void\ nextPage()
+comment3.text=\r\n\ Method\ that\ increases\ the\ index\ by\ 1\ if\ allowed\ and\ updates\ the\ image.\r\n
+comment4.params=
+comment4.target=void\ previousPage()
+comment4.text=\r\n\ Method\ that\ decreases\ the\ index\ by\ 1\ if\ allowed\ and\ updates\ the\ image.\r\n
+numComments=5

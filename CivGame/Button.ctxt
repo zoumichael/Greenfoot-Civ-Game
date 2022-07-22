@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Superclass\ of\ all\ Buttons,\ contains\ the\ flicker\ method\ and\ an\ abstract\ whenClicked\ method\ \r\n\ thqt\ will\ be\ overwritten\ in\ child\ classes.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ June\ 11,\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Button\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ whenClicked()
+comment2.text=\r\n\ Abstract\ class\ that\ you\ need\ to\ override.\ \r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CameraMover
+comment0.text=\r\n\ The\ object\ that\ moves\ the\ camera\ of\ the\ world\ around.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ GameRunner\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ nextTurnPanning()
+comment2.text=\r\n\ Sets\ the\ Camera\ position\ for\ each\ individual\ player's\ previous\ camera\ position\r\n
+numComments=3

@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DangerTile
+comment0.text=\r\n\ A\ stationary\ tile\ that\ tells\ the\ player\ what\ areas\ an\ unit\ can\ attack.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ May\ 24,\ 2018\r\n
+comment1.params=x\ y
+comment1.target=DangerTile(int,\ int)
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ class\ DangerTile,\ initializes\ the\ image.\r\n
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=NextTurnButton
+comment0.text=\r\n\ The\ button\ that\ triggers\ the\ next\ turn\ event\ when\ its\ pressed.\r\n\ \r\n\ @author\ Chengze\ Cai,\ Michael\ Zou\r\n\ @version\ May\ 9,\ 2018\r\n
+comment1.params=
+comment1.target=NextTurnButton()
+comment1.text=\r\n\ Constructor\ of\ objects\ NextTurnButton.\ Initializes\ the\ images\ to\ be\ the\ normal\ and\r\n\ the\ flashing\ button.\ Initializes\ the\ \r\n
+comment2.params=
+comment2.target=void\ whenClicked()
+comment2.text=\r\n\ Method\ that\ overwrites\ the\ abstract\ method\ in\ the\ parent\ class.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=FundDisplay
+comment0.text=\r\n\ The\ class\ that\ displays\ the\ funds\ that\ each\ player\ has,\ updated\ when\ the\ next\ turn\ button\ is\ pressed.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 11,\ 2018\r\n
+comment1.params=
+comment1.target=FundDisplay()
+comment1.text=\r\n\ Constructor\ for\ Objects\ of\ class\ FundDisplay.\ Since\ the\ game\ just\ started,\ the\ funds\ is\ 0.\r\n
+comment2.params=funds
+comment2.target=void\ updateImage(int)
+comment2.text=\r\n\ Method\ that\ is\ used\ to\ update\ the\ display\ on\ the\ upper\ right\ hand\ corner\ of\ the\ screen.\r\n
+numComments=3

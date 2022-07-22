@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Factory
+comment0.text=\r\n\ The\ neutral\ objective\ on\ the\ world\ that\ produces\ units\ and\ \r\n\ can\ be\ captured.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ May\ 8,\ 2018\r\n
+comment1.params=x\ y\ t\ i
+comment1.target=Factory(int,\ int,\ int,\ int)
+comment1.text=\r\n\ Constructors\ of\ objects\ of\ class\ Factory\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Factory\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ openBuildMenu()
+comment3.text=\r\n\ \r\n
+comment4.params=
+comment4.target=void\ closeBuildMenu()
+comment5.params=s
+comment5.target=void\ setSelected(boolean)
+comment5.text=\r\n\ Mutator\ method\ for\ the\ 'factorySelected'\ variable.\r\n\ \r\n\ @param\ \ s\ \ \ \ the\ new\ value\ of\ isSelected\r\n
+comment6.params=
+comment6.target=boolean\ getSelected()
+comment6.text=\r\n\ Accessor\ method\ for\ the\ 'factorySelected'\ variable.\r\n\ \r\n\ @return\ \ \ \ \ the\ factorySelected\ variable\r\n
+numComments=7

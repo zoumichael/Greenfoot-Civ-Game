@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CashCow
+comment0.text=\r\n\ Subclass\ for\ creating\ the\ money\ making\ building\ dubbed\ 'cashcow'\r\n\ \r\n\ @author\ Chengze\ Cai\r\n\ @version\ June\ 11,\ 2018\r\n
+comment1.params=x\ y\ t\ i
+comment1.target=CashCow(int,\ int,\ int,\ int)
+numComments=2

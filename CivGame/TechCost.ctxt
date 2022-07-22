@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TechCost
+comment0.text=\r\n\ The\ object\ that\ displays\ the\ cost\ of\ the\ tech.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ June\ 11,\ 2018\r\n
+comment1.params=c\ t
+comment1.target=TechCost(int,\ TechBubble)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ TechCost,\ initializes\ the\ cost\ and\ the\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TechCost\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

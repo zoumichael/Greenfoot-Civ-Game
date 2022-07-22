@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AttackTile
+comment0.text=\r\n\ The\ tile\ that\ is\ created\ that\ when\ a\ unit\ can\ attack\ a\ nearby\ unit.\r\n\ Clicking\ it\ calls\ the\ fight\ method\ in\ the\ world.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ May\ 9,\ 2018\r\n
+comment1.params=x\ y
+comment1.target=AttackTile(int,\ int)
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ class\ AttackTile,\ initializes\ the\ image.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ AttackTile\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=3

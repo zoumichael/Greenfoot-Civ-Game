@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=CanadaMapButton
+comment0.text=\r\n\ Button\ that\ takes\ you\ to\ the\ Canada\ map.\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\r\n\ @version\ June\ 11,\ 2018\r\n
+comment1.params=
+comment1.target=CanadaMapButton()
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ classes\ CanadaMapButton,\ initializes\ the\ number\ of\ players;\r\n
+comment2.params=
+comment2.target=void\ whenClicked()
+comment2.text=\r\n\ Method\ that\ overrides\ abstract\ the\ method\ in\ the\ parent\ class.\r\n
+numComments=3

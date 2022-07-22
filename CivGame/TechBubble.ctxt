@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TechBubble
+comment0.text=\r\n\ Actor\ for\ the\ buttons\ in\ the\ tech\ tree\r\n\ \r\n\ @author\ Michael\ Zou,\ Chengze\ Cai\ \r\n\ @version\ June\ 3,\ 2018\r\n
+comment1.params=name\ preq\ t\ c
+comment1.target=TechBubble(java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ TechBubble\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ updateImage()
+comment3.text=\r\n\ Method\ that\ updates\ the\ image\ depending\ on\ the\ tech,\ funds,\ prereqs\ available\r\n
+comment4.params=
+comment4.target=void\ whenClicked()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+numComments=6

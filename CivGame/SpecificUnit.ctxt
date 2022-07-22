@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=SpecificUnit
+comment0.text=\r\n\ Specific\ stats\ for\ particular\ units.\ Determines\ health,\ attack,\ armor,\ and\ other\ stats\r\n\ \r\n\ @author\ Michael\ Zou\ \r\n\ @version\ May\ 15,\ 2018\r\n
+comment1.params=x\ y\ t\ unitType\ unlockedTechs
+comment1.target=SpecificUnit(int,\ int,\ int,\ java.lang.String,\ java.lang.String)
+numComments=2

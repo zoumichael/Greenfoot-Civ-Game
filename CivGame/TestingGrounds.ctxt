@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TestingGrounds
+comment0.text=\r\n\ A\ Testing\ gameworld\ with\ preset\ spawns\ to\ test\ out\ game\ features,\ should\ never\ be\ called\ normally\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 28,\ 2018\r\n
+comment1.params=
+comment1.target=TestingGrounds()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TestingGrounds.\r\n\ \r\n
+comment2.params=
+comment2.target=void\ addStartingPieces()
+comment2.text=\r\n\ Method\ that\ overwrites\ the\ addStartingPieces\ in\ the\ GameWorld\ superclass.\r\n\ Initializes\ the\ units\ and\ buildings\ that\ spawn\ in\ the\ world.\r\n
+numComments=3

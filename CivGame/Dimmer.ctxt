@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Dimmer
+comment0.text=\r\n\ A\ object\ that\ is\ created\ when\ a\ unit\ can\ no\ longer\ move.\ \r\n\ Tells\ the\ user\ that\ this\ unit\ cannot\ move\ anymore\ by\ darkening\ that\ tile.\r\n\ \r\n\ @author\ Michael\ Zou\r\n\ @version\ May\ 15,\ 2018\r\n
+comment1.params=
+comment1.target=Dimmer()
+comment1.text=\r\n\ Constructor\ of\ objects\ of\ class\ Dimmer.\ \r\n\ Initalize\ the\ image\ and\ the\ transparency.\r\n
+numComments=2
